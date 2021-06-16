@@ -21,3 +21,8 @@ number_list = list(range(0,17))
 for i in number_list:
     i+=1
 
+#changed each other
+new_cars = cars
+
+#not changed
+indep_cars = cars[:]
